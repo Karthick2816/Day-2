@@ -1,0 +1,8 @@
+Q1 --> Diff between document objects vs window objects in js 
+ 
+ Window objects ==>
+     ! It represents window/ tab containing DOM document where as document object is property of window object that points to the DOM document loaded in that window
+
+  Document Objest ==>
+      ! IT represents whole html document as tree of objects (html,head,body)    
+     
